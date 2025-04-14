@@ -1,4 +1,5 @@
 ## Hi there 👋
+## 영남대학교 컴퓨터공학과 재학중
 
 <!--
 **huijeong211/huijeong211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
